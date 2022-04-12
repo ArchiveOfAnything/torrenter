@@ -1,0 +1,4 @@
+qbittorrent
+Utorrent
+Mediaget
+.exe
